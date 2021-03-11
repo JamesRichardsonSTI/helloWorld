@@ -1,3 +1,0 @@
-# helloWorld
-
-thanks for reading
